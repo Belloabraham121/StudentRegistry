@@ -118,6 +118,10 @@ To work with this project, you need to have the following installed:
 - [Alchemy](https://www.alchemy.com/)
 - [MetaMask](https://metamask.io/) (for deploying to testnets)
 
+## Deployed Contract
+sepolia: https://sepolia.etherscan.io/address/0x059e436C922f5eAfCc008d730a2CD61125c6055d#code
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
