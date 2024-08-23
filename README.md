@@ -128,4 +128,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-This README file provides a clear and structured overview of your `StudentRegistry` smart contract, making it easy for others to understand and use your code.
